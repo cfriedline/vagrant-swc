@@ -17,3 +17,6 @@ $ANACONDA_HOME/bin/conda update --yes anaconda
 # Make IPython notebook start at boot
 sudo sh -c "echo 'cd /vagrant && $ANACONDA_HOME/bin/ipython notebook --ip=* --no-browser &' > /etc/rc.local"
 sudo sh -c "echo 'exit 0' >> /etc/rc.local"
+
+# Restart
+sudo reboot
