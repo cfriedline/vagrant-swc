@@ -11,6 +11,7 @@ Ubuntu VM with all of the software required for a
 1. Clone the repo locally
 1. Change to that directory
 1. Run `vagrant up`
+1. After the box is done building, access it by `vagrant ssh`
 
 ##Installed software
 
