@@ -1,7 +1,7 @@
 #vagrant-swc
 
 This repo provides a [Vagrant](http://www.vagrantup.com) 
-configuration for building a [Virtualbox](http://www.virtualbox.org) 
+configuration for building a [VirtualBox](http://www.virtualbox.org) 
 Ubuntu VM with all of the software required for a 
 [Software Carpentry](http://software-carpentry.org) bootcamp.
 
